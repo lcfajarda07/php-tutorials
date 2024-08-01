@@ -1,0 +1,25 @@
+PHP For Beginners - Complete Laracasts Course
+
+Prerequisites
+-Code editor
+ Phpstorm
+ Sublime
+
+-terminal
+ warp
+ iterm
+ windows terminal
+ 
+------------------
+Install php and MySQL
+for mac
+-homebrew 
+
+for windows
+-laragon
+-xampp
+
+database management 
+-tableplus
+-phpMyAdmin
+-MySQL workbench
